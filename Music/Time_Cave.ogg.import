@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Time_Cave.ogg-765b5a6b903aaa20a0a3841860009c0c.oggstr"
+
+[deps]
+
+source_file="res://Music/Time_Cave.ogg"
+dest_files=[ "res://.import/Time_Cave.ogg-765b5a6b903aaa20a0a3841860009c0c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
