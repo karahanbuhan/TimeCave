@@ -12,7 +12,7 @@ HTML5 (web)
 https://karahanbuhan.itch.io/timecave
 
 Microsoft Windows
-https://www.dropbox.com/s/eo5w9000utl3otn/TimeCave.exe?dl=0
+https://github.com/karahanbuhan/TimeCave/releases/download/1.0.0/TimeCave.exe
 
 ## About Ludum Dare
 Ludum Dare is one of the world’s longest-running game development events, where creators from around the globe gather online to build small games in a very short time (usually 48–72 hours). The focus is on creativity, rapid prototyping, and sharing ideas with the community. After the event, participants play and rate each other’s games, giving valuable feedback and celebrating the variety of approaches that emerge from the same theme.
